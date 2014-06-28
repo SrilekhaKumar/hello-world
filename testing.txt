@@ -1,1 +1,2 @@
 This is my first github file.
+<p>Editing the file contents in GitHub</p>
